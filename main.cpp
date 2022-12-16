@@ -14,7 +14,7 @@ main()
         scanf("%i",&c);
 
     
-    printf("vvedite znacheniya dvumernogo massiva cherez Enter\n");
+    printf("Enter your numbers\n");
     
     for (int j=0; j<r; j++)
     {
